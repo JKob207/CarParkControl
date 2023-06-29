@@ -1,6 +1,6 @@
 # CarParkControl
 
-The CarParkControl project is based on the implementation of computer vision for parking occupancy control. The project uses a drone camera shot above the car park imitating a live recording from a good quality camera installed at a high point in the car park. The program allows you to select parking spaces, save them to a file, load them from a file and (as the main function) monitor the parking lot by graphically showing which spaces are occupied and which are not.
+The CarParkControl project is based on the implementation of computer vision for parking occupancy control. The project uses a drone camera shot above the car park imitating a live recording from a good quality camera installed at a high point in the car park. The program allows you to select parking spaces, save them to a file, load them from a file and (as the main function) monitor the parking lot by graphically showing which spaces are occupied and which are not. The project was made as a final semester work for subject "Visión por Computador" in the University "Universitat Politècnica de València Campus de Alcoi" in Spain 2023.
 
 ## System Requirements
 - Windows operating system (e.g., Windows 10)
